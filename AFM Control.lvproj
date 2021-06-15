@@ -27,7 +27,7 @@
 			<Item Name="Resonance Curve.lvclass" Type="LVClass" URL="../Resonance Curve/Resonance Curve.lvclass"/>
 		</Item>
 		<Item Name="Utils" Type="Folder">
-			<Item Name="Binary to Nominal.vi" Type="VI" URL="../Utils/Binary to Nominal.vi"/>
+			<Item Name="binary_to_nominal.vi" Type="VI" URL="../Utils/binary_to_nominal.vi"/>
 		</Item>
 		<Item Name="FPGA Target" Type="FPGA Target">
 			<Property Name="AutoRun" Type="Bool">false</Property>
@@ -1845,6 +1845,7 @@
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 			</Item>
+			<Item Name="matscript.dll" Type="Document"/>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
