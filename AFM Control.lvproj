@@ -11,13 +11,20 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Instruments" Type="Folder">
+			<Item Name="Function Generator" Type="Folder">
+				<Item Name="Function Generator.lvclass" Type="LVClass" URL="../Function Generator/Function Generator.lvclass"/>
+				<Item Name="Keysight 33511B.lvclass" Type="LVClass" URL="../Keysight 33500B/Keysight 33511B.lvclass"/>
+			</Item>
+			<Item Name="Lock-In Amplifier" Type="Folder">
+				<Item Name="Lock-In Amplifier.lvclass" Type="LVClass" URL="../Lock-In Amplifier/Lock-In Amplifier.lvclass"/>
+				<Item Name="SR 830 &amp; NI USB7855R.lvclass" Type="LVClass" URL="../SR 830 &amp; NI USB7855R/SR 830 &amp; NI USB7855R.lvclass"/>
+			</Item>
+			<Item Name="Picomotor" Type="Folder">
+				<Item Name="Newport Model 8742.lvclass" Type="LVClass" URL="../Newport Model 8742/Newport Model 8742.lvclass"/>
+				<Item Name="Picomotor.lvclass" Type="LVClass" URL="../Picomotor/Picomotor.lvclass"/>
+			</Item>
 			<Item Name="Abstract Instrument.lvclass" Type="LVClass" URL="../Abstract Instrument/Abstract Instrument.lvclass"/>
-			<Item Name="Function Generator.lvclass" Type="LVClass" URL="../Function Generator/Function Generator.lvclass"/>
-			<Item Name="Keysight 33511B.lvclass" Type="LVClass" URL="../Keysight 33500B/Keysight 33511B.lvclass"/>
-			<Item Name="Lock-In Amplifier.lvclass" Type="LVClass" URL="../Lock-In Amplifier/Lock-In Amplifier.lvclass"/>
-			<Item Name="Picomotor.lvclass" Type="LVClass" URL="../Picomotor/Picomotor.lvclass"/>
 			<Item Name="PZT.lvclass" Type="LVClass" URL="../PZT/PZT.lvclass"/>
-			<Item Name="SR 830 &amp; NI USB7855R.lvclass" Type="LVClass" URL="../SR 830 &amp; NI USB7855R/SR 830 &amp; NI USB7855R.lvclass"/>
 		</Item>
 		<Item Name="Measurement Data" Type="Folder">
 			<Item Name="Abstract Measurement Data.lvclass" Type="LVClass" URL="../Abstract Measurement Data/Abstract Measurement Data.lvclass"/>
@@ -1852,7 +1859,6 @@
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 			</Item>
-			<Item Name="matscript.dll" Type="Document"/>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
