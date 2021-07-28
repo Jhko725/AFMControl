@@ -19,6 +19,15 @@
 	<Item Name="Newport Model 8742.ctl" Type="Class Private Data" URL="Newport Model 8742.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
+	<Item Name="move.vi" Type="VI" URL="../move.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;F!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$Z!=!!?!!!='EZF&gt;X"P=H1A47^E:7QA/$=U-CZM&gt;G.M98.T!!!74G6X='^S&gt;#".&lt;W2F&lt;#!Y.T1S)'^V&gt;!!!&amp;E"1!!-!!!!"!!)):8*S&lt;X)A;7Y!!"*!)1V3:7RB&gt;'FW:4]A+&amp;1J!"F!"!!42'FT='RB9W6N:7ZU)#BC;82T+1!]1(!!(A!!("J/:8&gt;Q&lt;X*U)%VP:'6M)$AX.$)O&lt;(:D&lt;'&amp;T=Q!!&amp;5ZF&gt;X"P=H1A47^E:7QA/$=U-C"J&lt;A"B!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!(!!A!#1-!!(A!!!U)!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!)!!!!+!!!!#!!!$1!!!!Q!!!!!!!!!!!!!!1!+!!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+	</Item>
 	<Item Name="open.vi" Type="VI" URL="../open.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%F!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$2!=!!?!!!='EZF&gt;X"P=H1A47^E:7QA/$=U-CZM&gt;G.M98.T!!!.5'FD&lt;WVP&gt;'^S)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!$2!=!!?!!!='EZF&gt;X"P=H1A47^E:7QA/$=U-CZM&gt;G.M98.T!!!-5'FD&lt;WVP&gt;'^S)'FO!!"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!1!"Q-!!(A!!!U)!!!!!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!EA!!!!!"!!A!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>

@@ -23,8 +23,11 @@
 				<Item Name="Newport Model 8742.lvclass" Type="LVClass" URL="../Newport Model 8742/Newport Model 8742.lvclass"/>
 				<Item Name="Picomotor.lvclass" Type="LVClass" URL="../Picomotor/Picomotor.lvclass"/>
 			</Item>
+			<Item Name="PZT" Type="Folder">
+				<Item Name="PI P123.01 &amp; PiezoDrive TD250 &amp; NI USB 7855R.lvclass" Type="LVClass" URL="../PI P123.01 &amp; PiezoDrive TD250 &amp; NI USB 7855R/PI P123.01 &amp; PiezoDrive TD250 &amp; NI USB 7855R.lvclass"/>
+				<Item Name="PZT.lvclass" Type="LVClass" URL="../PZT/PZT.lvclass"/>
+			</Item>
 			<Item Name="Abstract Instrument.lvclass" Type="LVClass" URL="../Abstract Instrument/Abstract Instrument.lvclass"/>
-			<Item Name="PZT.lvclass" Type="LVClass" URL="../PZT/PZT.lvclass"/>
 		</Item>
 		<Item Name="Measurement Data" Type="Folder">
 			<Item Name="Abstract Measurement Data.lvclass" Type="LVClass" URL="../Abstract Measurement Data/Abstract Measurement Data.lvclass"/>
@@ -37,6 +40,7 @@
 		</Item>
 		<Item Name="Utils" Type="Folder">
 			<Item Name="binary_to_nominal.vi" Type="VI" URL="../Utils/binary_to_nominal.vi"/>
+			<Item Name="nominal_to_binary.vi" Type="VI" URL="../Utils/nominal_to_binary.vi"/>
 		</Item>
 		<Item Name="FPGA Target" Type="FPGA Target">
 			<Property Name="AutoRun" Type="Bool">false</Property>
@@ -1858,7 +1862,9 @@
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
+				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
 			</Item>
+			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
