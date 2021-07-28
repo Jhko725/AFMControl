@@ -20,7 +20,7 @@
 				<Item Name="SR 830 &amp; NI USB7855R.lvclass" Type="LVClass" URL="../SR 830 &amp; NI USB7855R/SR 830 &amp; NI USB7855R.lvclass"/>
 			</Item>
 			<Item Name="Picomotor" Type="Folder">
-				<Item Name="Newport Model 8742.lvclass" Type="LVClass" URL="../Newport Model 8742/Newport Model 8742.lvclass"/>
+				<Item Name="New Focus Model 8742.lvclass" Type="LVClass" URL="../Newport Model 8742/New Focus Model 8742.lvclass"/>
 				<Item Name="Picomotor.lvclass" Type="LVClass" URL="../Picomotor/Picomotor.lvclass"/>
 			</Item>
 			<Item Name="PZT" Type="Folder">
