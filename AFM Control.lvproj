@@ -1860,6 +1860,23 @@
 		</Item>
 		<Item Name="Prototype.vi" Type="VI" URL="../Prototype.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="instr.lib" Type="Folder">
+				<Item Name="AbortMotion.vi" Type="VI" URL="/&lt;instrlib&gt;/New Focus 8742/Command VIs/AbortMotion.vi"/>
+				<Item Name="AbsoluteMove.vi" Type="VI" URL="/&lt;instrlib&gt;/New Focus 8742/Command VIs/AbsoluteMove.vi"/>
+				<Item Name="CmdLib.dll" Type="Document" URL="/&lt;instrlib&gt;/New Focus 8742/CmdLib.dll"/>
+				<Item Name="DeviceOpen.vi" Type="VI" URL="/&lt;instrlib&gt;/New Focus 8742/Device VIs/DeviceOpen.vi"/>
+				<Item Name="GetAcceleration.vi" Type="VI" URL="/&lt;instrlib&gt;/New Focus 8742/Command VIs/GetAcceleration.vi"/>
+				<Item Name="GetMasterDeviceAddress.vi" Type="VI" URL="/&lt;instrlib&gt;/New Focus 8742/Device VIs/GetMasterDeviceAddress.vi"/>
+				<Item Name="GetMotionDone.vi" Type="VI" URL="/&lt;instrlib&gt;/New Focus 8742/Command VIs/GetMotionDone.vi"/>
+				<Item Name="GetPosition.vi" Type="VI" URL="/&lt;instrlib&gt;/New Focus 8742/Command VIs/GetPosition.vi"/>
+				<Item Name="GetVelocity.vi" Type="VI" URL="/&lt;instrlib&gt;/New Focus 8742/Command VIs/GetVelocity.vi"/>
+				<Item Name="InitSingleDevice.vi" Type="VI" URL="/&lt;instrlib&gt;/New Focus 8742/Device VIs/InitSingleDevice.vi"/>
+				<Item Name="RelativeMove.vi" Type="VI" URL="/&lt;instrlib&gt;/New Focus 8742/Command VIs/RelativeMove.vi"/>
+				<Item Name="SetAcceleration.vi" Type="VI" URL="/&lt;instrlib&gt;/New Focus 8742/Command VIs/SetAcceleration.vi"/>
+				<Item Name="SetVelocity.vi" Type="VI" URL="/&lt;instrlib&gt;/New Focus 8742/Command VIs/SetVelocity.vi"/>
+				<Item Name="SetZeroPosition.vi" Type="VI" URL="/&lt;instrlib&gt;/New Focus 8742/Command VIs/SetZeroPosition.vi"/>
+				<Item Name="StopMotion.vi" Type="VI" URL="/&lt;instrlib&gt;/New Focus 8742/Command VIs/StopMotion.vi"/>
+			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
