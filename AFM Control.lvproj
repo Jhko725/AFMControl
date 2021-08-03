@@ -1860,6 +1860,7 @@
 				<Item Name="AbortMotion.vi" Type="VI" URL="/&lt;instrlib&gt;/New Focus 8742/Command VIs/AbortMotion.vi"/>
 				<Item Name="AbsoluteMove.vi" Type="VI" URL="/&lt;instrlib&gt;/New Focus 8742/Command VIs/AbsoluteMove.vi"/>
 				<Item Name="CmdLib.dll" Type="Document" URL="/&lt;instrlib&gt;/New Focus 8742/CmdLib.dll"/>
+				<Item Name="DeviceClose.vi" Type="VI" URL="/&lt;instrlib&gt;/New Focus 8742/Device VIs/DeviceClose.vi"/>
 				<Item Name="DeviceOpen.vi" Type="VI" URL="/&lt;instrlib&gt;/New Focus 8742/Device VIs/DeviceOpen.vi"/>
 				<Item Name="GetAcceleration.vi" Type="VI" URL="/&lt;instrlib&gt;/New Focus 8742/Command VIs/GetAcceleration.vi"/>
 				<Item Name="GetMasterDeviceAddress.vi" Type="VI" URL="/&lt;instrlib&gt;/New Focus 8742/Device VIs/GetMasterDeviceAddress.vi"/>
