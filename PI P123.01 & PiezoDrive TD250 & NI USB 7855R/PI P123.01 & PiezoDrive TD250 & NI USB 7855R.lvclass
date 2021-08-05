@@ -23,31 +23,22 @@
 	<Item Name="PI P123.01 &amp; PiezoDrive TD250 &amp; NI USB 7855R.ctl" Type="Class Private Data" URL="PI P123.01 &amp; PiezoDrive TD250 &amp; NI USB 7855R.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
-	<Item Name="get_max_min.vi" Type="VI" URL="../get_max_min.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(5!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%U!#!!V1;76[&lt;V^N;7ZJ&lt;86N!".!!A!.5'FF?G^@&lt;7&amp;Y;7VV&lt;1"Y1(!!(A!!.D2133"1-4)T,D!R)#9A5'FF?G^%=GFW:3"52$)V-#!G)%Z*)&amp;641C!X/$5V5CZM&gt;G.M98.T!!!W5%EA5$%S-SYQ-3!G)&amp;"J:8JP2(*J&gt;G5A6%1S.4!A*C"/33"65U)A.TAV.6)O&lt;(:D&lt;'&amp;T=S!S!!!%!!!!&amp;E"1!!-!!!!"!!)):8*S&lt;X)A;7Y!!(:!=!!?!!!W.&amp;"*)&amp;!R-D-O-$%A*C"1;76[&lt;U2S;8:F)&amp;2%-D5Q)#9A4EEA66.#)$=Y.463,GRW9WRB=X-!!$2133"1-4)T,D!R)#9A5'FF?G^%=GFW:3"52$)V-#!G)%Z*)&amp;641C!X/$5V5CZM&gt;G.M98.T!!"B!0!!$!!$!!1!"1!'!!=!"Q!(!!=!#!!(!!=!#1)!!(A!!!U)!!!*!!!!#1!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!#!!!$1!!!!Q!!!!!!!!!!!!!!1!+!!!!!!</Property>
+	<Item Name="get_voltage_limits.vi" Type="VI" URL="../get_voltage_limits.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'\!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%U!#!!V1;76[&lt;V^N;7ZJ&lt;86N!".!!A!.5'FF?G^@&lt;7&amp;Y;7VV&lt;1"S1(!!(A!!.D2133"1-4)T,D!R)#9A5'FF?G^%=GFW:3"52$)V-#!G)%Z*)&amp;641C!X/$5V5CZM&gt;G.M98.T!!!Q5%EA5$%S-SYQ-3!G)&amp;"J:8JP2(*J&gt;G5A6%1S.4!A*C"/33"65U)A.TAV.6)A&lt;X6U!!!%!!!!&amp;E"1!!-!!!!"!!)):8*S&lt;X)A;7Y!!("!=!!?!!!W.&amp;"*)&amp;!R-D-O-$%A*C"1;76[&lt;U2S;8:F)&amp;2%-D5Q)#9A4EEA66.#)$=Y.463,GRW9WRB=X-!!#^133"1-4)T,D!R)#9A5'FF?G^%=GFW:3"52$)V-#!G)%Z*)&amp;641C!X/$5V5C"J&lt;A"5!0!!$!!$!!1!"1!'!!=!"Q!(!!=!#!!(!!=!#1)!!(A!!!U)!!!*!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!E!!!!!!"!!I!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">33554432</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 	</Item>
 	<Item Name="set_z_voltage.vi" Type="VI" URL="../set_z_voltage.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'W!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!(*!=!!?!!!W.&amp;"*)&amp;!R-D-O-$%A*C"1;76[&lt;U2S;8:F)&amp;2%-D5Q)#9A4EEA66.#)$=Y.463,GRW9WRB=X-!!$"133"1-4)T,D!R)#9A5'FF?G^%=GFW:3"52$)V-#!G)%Z*)&amp;641C!X/$5V5C"P&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!&amp;U!#!"";)(:P&lt;(2B:W5A+'*J&gt;(-J!!"Q1(!!(A!!.D2133"1-4)T,D!R)#9A5'FF?G^%=GFW:3"52$)V-#!G)%Z*)&amp;641C!X/$5V5CZM&gt;G.M98.T!!!P5%EA5$%S-SYQ-3!G)&amp;"J:8JP2(*J&gt;G5A6%1S.4!A*C"/33"65U)A.TAV.6)A;7Y!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!(!!A$!!"Y!!!.#!!!!!!!!!!!!!#*!!!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!%!!!!*!!!!!!!1!*!!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'W!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!(*!=!!?!!!W.&amp;"*)&amp;!R-D-O-$%A*C"1;76[&lt;U2S;8:F)&amp;2%-D5Q)#9A4EEA66.#)$=Y.463,GRW9WRB=X-!!$"133"1-4)T,D!R)#9A5'FF?G^%=GFW:3"52$)V-#!G)%Z*)&amp;641C!X/$5V5C"P&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!&amp;U!#!"";)(:P&lt;(2B:W5A+'*J&gt;(-J!!"Q1(!!(A!!.D2133"1-4)T,D!R)#9A5'FF?G^%=GFW:3"52$)V-#!G)%Z*)&amp;641C!X/$5V5CZM&gt;G.M98.T!!!P5%EA5$%S-SYQ-3!G)&amp;"J:8JP2(*J&gt;G5A6%1S.4!A*C"/33"65U)A.TAV.6)A;7Y!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!(!!A$!!"Y!!!*!!!!!!!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!%A!!!*)!!!!!!1!*!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1351361040</Property>
-	</Item>
-	<Item Name="set_z_voltage1.vi" Type="VI" URL="../set_z_voltage1.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'`!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!(*!=!!?!!!W.&amp;"*)&amp;!R-D-O-$%A*C"1;76[&lt;U2S;8:F)&amp;2%-D5Q)#9A4EEA66.#)$=Y.463,GRW9WRB=X-!!$"133"1-4)T,D!R)#9A5'FF?G^%=GFW:3"52$)V-#!G)%Z*)&amp;641C!X/$5V5C"P&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!%U!#!!V;)&amp;:P&lt;(2B:W5A+&amp;9J!("!=!!?!!!W.&amp;"*)&amp;!R-D-O-$%A*C"1;76[&lt;U2S;8:F)&amp;2%-D5Q)#9A4EEA66.#)$=Y.463,GRW9WRB=X-!!#^133"1-4)T,D!R)#9A5'FF?G^%=GFW:3"52$)V-#!G)%Z*)&amp;641C!X/$5V5C"J&lt;A"B!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!=!#!-!!(A!!!E!!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!)!!!!#!!!$1!!!!Q!!!!!!!!!!!!!!1!*!!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1074274832</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 	</Item>
 </LVClass>
